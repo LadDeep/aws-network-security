@@ -1,0 +1,20 @@
+{
+  "name": "a3",
+  "version": "1.0.0",
+  "description": "Communicating EC2 and RDS in a VPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.cs.dal.ca/courses/2023-summer/csci4145-5409/dlad/-/tree/main/A3"
+  },
+  "author": "Deep Lad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
